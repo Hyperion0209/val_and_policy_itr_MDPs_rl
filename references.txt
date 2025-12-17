@@ -1,0 +1,8 @@
+Have removed the env747 folder because the folder was too big for submission otherwise.
+CS747 SLIDES
+https://www.cse.iitb.ac.in/~shivaram/resources/ijcai-2017-tutorial-policyiteration/index.html
+https://youtu.be/l87rgLg90HI?si=iTX2voNQGcRosiB3
+https://youtu.be/2iF9PRriA7w?si=PR2_yZoTCYFfl00p - great for gaining intution
+https://youtu.be/zC8jkmlCDCU?si=tc-CzQGQa6NR9GIa
+https://youtu.be/hUqeGLkx_zs?si=uN16DNm_HM53bxDY
+https://youtu.be/RlugupBiC6w?si=9MttjwT6Gzfa7NJp
