@@ -1,5 +1,6 @@
 # val_and_policy_itr_MDPs_rl
-Value Iteration and Howard’s Policy Iteration of Markov Decision Problems
+Value Iteration and Howard’s Policy Iteration of Markov Decision Problems 
+Based on the setup as defined on [https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-a2023/pa-2/pa-2.html]
 
 # Adversarial MDP Planning Toolkit
 
